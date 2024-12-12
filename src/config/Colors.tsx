@@ -1,0 +1,1 @@
+export const CPrimaryEnterprice = "#f6f0e0";
